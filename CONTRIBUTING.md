@@ -22,6 +22,8 @@ If you want to report an issue, please [create an issue](https://github.com/home
 
 ## Hacktoberfest contributions
 
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-friendly-blueviolet)](https://hacktoberfest.com/)
+
 Home Assistant welcomes contributions during Hacktoberfest and throughout the year. If you're looking to make your first contribution, here's how to get started:
 
 ### Finding issues to work on
